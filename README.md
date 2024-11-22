@@ -44,7 +44,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Modellen 
-  <img src="finder.porsche.com_nl_nl-NL_int_ref=globalnav&int_medium=link&int_id=inventory(iPhone 14 Pro Max).png" width="375px" alt="screenshot van de modellen pagina">
+  <img src="www.porsche.com_netherlands_nl_models_911_carrera-models_911-carrera-gts_(iPhone 14 Pro Max).png" width="375px" alt="screenshot van de modellen pagina">
  
 </details>
 
